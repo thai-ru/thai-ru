@@ -1,4 +1,4 @@
-[![MasterHead]([https://th.bing.com/th/id/OIP.yJXbQF9JDj7aAJaXV8VePQHaEK?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?pid=ImgDet&rs=1))](robinthairu.me)
+[![MasterHead](https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?pid=ImgDet&rs=1)](robinthairu.me)
 
 <h1 align="center">Hi 👋, I'm Robinson thairu</h1>
 <h3 align="center">A passionate Software Developer with skills in fullstack web and mobile development.</h3>
