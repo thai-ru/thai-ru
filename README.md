@@ -1,7 +1,7 @@
-[![MasterHead]([https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIG1.vCujBgL72N.Q3JUCq3pA?w=1024&h=1024&rs=1&pid=ImgDetMain))](robinsonthairu.vercel.app)
+[![MasterHead](https://www.everythingthairu.xyz/_next/image?url=%2Fstatic%2Fimages%2Favatar.png&w=256&q=75))](everythingthairu.xyz)
 
 <h1 align="center">Hi 👋, I'm Robinson thairu</h1>
-<h3 align="center">A passionate Software Developer with skills in fullstack web and mobile development.</h3>
+<h3 align="center">I am a passionate Software developer, Crafting mobile experiences that solve business challenges and delight users, combining the power of Code for seamless Frontend and backend elegance. Currently, I am focused on building backend systems and mobile apps.</h3>
 <img align="right" alt="Cartoon coding" width="400" src="https://th.bing.com/th/id/OIP.IRFhWNqusUWbTsB1hQXhrQHaEI?pid=ImgDet&rs=1"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thai-ru&label=Profile%20views&color=0e75b6&style=flat" alt="thai-ru" /> </p>
