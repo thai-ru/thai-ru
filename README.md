@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQF7aChkkyoHfQ/profile-displaybackgroundimage-shrink_350_1400/0/1702598946521?e=1717632000&v=beta&t=nPxgcaackAx5GC9HFjW6bLFB9hzF7k0d38CQy6GlmNk)](everythingthairu.xyz)
 
 <h1 align="center">Hi 👋, I'm Robinson thairu</h1>
-<h3 align="left">I am a passionate Software developer, Crafting mobile experiences that solve business challenges and delight users, combining the power of Code for seamless Frontend and backend elegance. Currently, I am focused on building backend systems and mobile apps.</h3>
+<h3 align="left">I am a passionate Software developer, Crafting mobile experiences that solve business challenges and delight users, combining the power of Code for seamless Frontend and backend elegance. Currently, I am focused on building backend systems and mobile apps(Both IOS and Android).</h3>
 <img align="right" alt="Cartoon coding" width="400" src="https://th.bing.com/th/id/OIP.IRFhWNqusUWbTsB1hQXhrQHaEI?pid=ImgDet&rs=1"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thai-ru&label=Profile%20views&color=0e75b6&style=flat" alt="thai-ru" /> </p>
