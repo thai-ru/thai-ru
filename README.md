@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Robinson thairu</h1>
 <h3 align="left">I am a passionate Software developer, Crafting mobile experiences that solve business challenges and delight users, combining the power of Code for seamless Frontend and backend elegance. Currently, I am focused on building backend systems and mobile apps(Both IOS and Android).</h3>
-<img align="right" alt="Mobile Development Gif" width="400" src="https://ravisah.in/images/mobile-app-development.gif"/>
+<img alt="Mobile Development Gif" width="400" src="https://ravisah.in/images/mobile-app-development.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thai-ru&label=Profile%20views&color=0e75b6&style=flat" alt="thai-ru" /> </p>
 
